@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Film Favorit</string>
+
+    <string name="movie">Film</string>
+    <string name="tv_show">Acara Tv</string>
+    <string name="name">Judul</string>
+    <string name="poster">Poster</string>
+    <string name="empty_favorite_movie">Tidak ada film yang disukai</string>
+    <string name="empty_favorite_tv_show">Tidak ada acara tv yang disukai</string>
+</resources>

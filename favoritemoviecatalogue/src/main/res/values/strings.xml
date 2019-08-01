@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Favorite Movie Catalogue</string>
+
+    <string name="movie">Movie</string>
+    <string name="tv_show">Tv Show</string>
+    <string name="name">Title</string>
+    <string name="poster">Poster</string>
+    <string name="empty_favorite_movie">There is no movie that is preferred</string>
+    <string name="empty_favorite_tv_show">There is no tv show that is preferred</string>
+</resources>

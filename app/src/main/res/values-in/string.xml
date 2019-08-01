@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Film</string>
+
+    <string name="movie">Film</string>
+    <string name="tv_show">Acara Tv</string>
+    <string name="favorite">Favorit</string>
+    <string name="language_setting">Pengaturan Bahasa</string>
+    <string name="name">Judul</string>
+    <string name="poster">Poster</string>
+    <string name="failed_load_movie">Gagal memuat Film</string>
+    <string name="failed_load_tv_show">Gagal memuat Acara Tv</string>
+    <string name="no_connection">Tidak ada koneksi internet</string>
+    <string name="deleted_fovorit_movie">Film dihapus dari favorit</string>
+    <string name="deleted_fovorit_tv_show">Acara Tv dihapus dari favorit</string>
+    <string name="inserted_fovorit_movie">Film ditambahkan ke favorit</string>
+    <string name="inserted_fovorit_tv_show">Acara Tv ditambahkan ke favorit</string>
+    <string name="empty_favorite_movie">Tidak ada film yang disukai</string>
+    <string name="empty_favorite_tv_show">Tidak ada acara tv yang disukai</string>
+    <string name="setting">Pengaturan</string>
+    <string name="blank_search_results">Tidak ada hasil pencarian</string>
+    <string name="daily_reminder">Pengingat harian</string>
+    <string name="release_today_reminder">Pengingat rilis hari ini</string>
+    <string name="todays_movie_release">Film rilis hari ini</string>
+    <string name="todays_tv_show_release">Acara tv rilis hari ini</string>
+    <string name="daily_reminder_message">Periksa katalog sekarang</string>
+</resources>
